@@ -1,0 +1,16 @@
+com\hcb\p2p\base\util\UploadUtil.class
+com\hcb\p2p\base\controller\UserBankinfoController.class
+com\hcb\p2p\base\controller\PersonalController.class
+com\hcb\p2p\base\controller\IndexController.class
+com\hcb\p2p\base\controller\MoneyWithdrawController.class
+com\hcb\p2p\base\controller\BidController.class
+com\hcb\p2p\base\controller\RealAuthController.class
+com\hcb\p2p\base\controller\RechargeOfflineController.class
+com\hcb\p2p\base\controller\RegisterController.class
+com\hcb\p2p\base\controller\BasicInfoController.class
+com\hcb\p2p\base\controller\BorrowController.class
+com\hcb\p2p\base\controller\UserFileController.class
+com\hcb\p2p\base\util\LoginCheckInterceptor.class
+com\hcb\p2p\base\controller\VerifyCodeController.class
+com\hcb\p2p\base\controller\IplogController.class
+com\hcb\p2p\base\util\RequireLogin.class

@@ -1,0 +1,11 @@
+com\hcb\mgrsite\base\RealAuthController.class
+com\hcb\mgrsite\listener\InitAdminListener.class
+com\hcb\mgrsite\base\MoneyWithdrawController.class
+com\hcb\mgrsite\base\IplogController.class
+com\hcb\mgrsite\base\PlatformBankinfoController.class
+com\hcb\mgrsite\base\SystemDictionaryController.class
+com\hcb\mgrsite\base\VedioAuthController.class
+com\hcb\mgrsite\base\LoginController.class
+com\hcb\mgrsite\base\BidRequestController.class
+com\hcb\mgrsite\base\UserFileController.class
+com\hcb\mgrsite\base\RechargeOfflineController.class
